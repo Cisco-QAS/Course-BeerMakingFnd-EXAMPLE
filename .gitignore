@@ -1,0 +1,6 @@
+# Ignore Vim Swap Files
+*.swp
+*.swo
+
+# Ignore any .DS_Store artifacts
+.DS_Store
