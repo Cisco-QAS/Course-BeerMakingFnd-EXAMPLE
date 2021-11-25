@@ -1,16 +1,10 @@
 ## ❓Assessment Questions
 
 
-### Question-1 
-[Link to related module](modules/README.md)
-- Answer-A
-- Answer-B
-- Answer-C
-- Answer-D
+### What's Beer?
+[Introduction to Beer](/modules/intro-beer-making/README.md)
+- Colored Water
+- CA's official State Animal 
+- **Adult Beverage**
+- None of the Above
 
-### Question-2 
-[Link to related module](modules/README.md)
-- Answer-A
-- Answer-B
-- Answer-C
-- Answer-D

@@ -10,13 +10,11 @@
 
 ## 📖 Module Outline
 `Expand on topics defined in the course outline for the module`
-* #### 🔸 `topic - 1`
-> topic-1 should cover content around :
+#### topic - 1
 > - subtopic-X
 > - subtopic-Y
 > - subtopic-Z
-* #### 🔸 `topic - 2`
-> topic-2 should cover content around :
+#### topic - 2
 > - subtopic-A
 > - subtopic-B
 > - subtopic-C
