@@ -1,1 +1,1 @@
-../course-outline/beer-making-fund/README.md
+./course-outline/beer-making-fund/README.md
