@@ -6,7 +6,7 @@
 #### ⚠️ This is a <u>Sample Course</u> to showcase the usage of our [learning content template and process️](https://github.com/Cisco-Learning/Learning-Content-Template) 
 ## 📃 Course Abstract
 
-In this course we will learn the fundamentals of making tasty brew
+In this course we will learn the fundamentals of making tasty brew. I would make edits here, and then push my changes back to the repository. :D. 
 
 ## 📐 Skill level:
 `Foundational`
