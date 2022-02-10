@@ -6,7 +6,7 @@
 #### ⚠️ This is a <u>Sample Course</u> to showcase the usage of our [learning content template and process️](https://github.com/Cisco-Learning/Learning-Content-Template) 
 ## 📃 Course Abstract
 
-In this course we will learn the fundamentals of making tasty brew. I would make edits here, and then push my changes back to the repository. :D. Wow that's easy!
+In this course we will learn the fundamentals of making tasty brew. 
 
 ## 📐 Skill level:
 `Foundational`
@@ -18,10 +18,6 @@ In this course we will learn the fundamentals of making tasty brew. I would make
 - Discuss History of brewing
 - Explain Beer styles
 - Science behind Beer making
-- Cry about GitHub
-- This Land is your Land 
-- What is this stuff
-- `what does this term mean`
 
 
 ### Selection and milling of grains 
