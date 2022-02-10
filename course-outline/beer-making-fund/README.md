@@ -19,7 +19,8 @@ In this course we will learn the fundamentals of making tasty brew. I would make
 - Explain Beer styles
 - Science behind Beer making
 - Cry about GitHub
-- Needs a sub-bullet for weeping instructions
+- This Land is your Land
+- What is this stuff
 
 
 ### Selection and milling of grains 
